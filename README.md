@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm dpflucas 👋
 
-<!--
-**dpflucas/dpflucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Diogo Lucas and I'm a Software Engineer based in Coimbra-Portugal.
 
-Here are some ideas to get you started:
+## 🛠️ Tech I Use & Love
+- **Backend**: Ruby on Rails, Phoenix, Django, Node.js
+- **Frontend**: HTML, React, Vue, Tailwind CSS
+- **Languages**: Ruby, Elixir, Python, JavaScript, TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- [Website](https://dpflucas.com)
+- [LinkedIn](https://www.linkedin.com/in/dpflucas)
+- [X](https://x.com/dpflucas)

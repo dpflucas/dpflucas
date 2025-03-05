@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm dpflucas 👋
 
-<!--
-**dpflucas/dpflucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer working [@Whitesmith](https://github.com/whitesmith).
 
-Here are some ideas to get you started:
+## 🛠️ My Favorite Tech Stack
+- **Frontend**: Next.js, TypeScript, Shadcn UI, Tailwind CSS
+- **Backend**: Node.js, Ruby on Rails, Supabase
+- **Tools**: GitHub, VS Code, Cursor, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- [Website](https://dpflucas.github.io/)
+- [X](https://x.com/dpflucas)
+- [LinkedIn](https://www.linkedin.com/in/dpflucas)

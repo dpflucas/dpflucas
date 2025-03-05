@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm Diogo Lucas 👋
 
-<!--
-**dpflucas/dpflucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer who loves web development.
 
-Here are some ideas to get you started:
+## 🛠️ My Favorite Tech Stack
+- **Frontend**: Next.js, TypeScript, Shadcn UI, Tailwind CSS
+- **Backend**: Node.js, Ruby on Rails, Supabase
+- **Tools**: GitHub, VS Code, Cursor, Vercel
+- **AI assistant model**: Claude 3.5 Sonnet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- [X](https://x.com/dpflucas)
+- [LinkedIn](https://www.linkedin.com/in/dpflucas)

@@ -9,5 +9,6 @@ I'm a Software Engineer who loves web development.
 - **AI assistant model**: Claude 3.5 Sonnet
 
 ## 📫 Connect With Me
-- [X](https://x.com/dpflucas)
+- [Website](https://dpflucas.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/dpflucas)
+- [X](https://x.com/dpflucas)
